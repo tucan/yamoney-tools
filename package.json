@@ -1,17 +1,17 @@
 {
-	"name": "yamoney-console",
+	"name": "yamoney-tools",
 	"version": "0.1.0",
-	"description": "Yandex.Money interactive console",
+	"description": "Tools for Yandex.Money",
 	"keywords": ["yandex", "money", "payment"],
 	"main": "./lib/index",
-	"licence": "MIT",
+	"license": "MIT",
 	"author": {
 		"name": "Vladimir Andreev",
 		"email": "volodya@netfolder.ru"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tucan/yamoney-console.git"
+		"url": "https://github.com/tucan/yamoney-tools.git"
 	},
 	"dependencies": {
 		"yamoney": "0.x"

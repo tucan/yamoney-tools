@@ -1,7 +1,7 @@
-# Yandex.Money Console
+# Yandex.Money Tools
 
 ## Installation
 
 ```
-$ npm install -g yamoney-console
+$ npm install -g yamoney-tools
 ```
