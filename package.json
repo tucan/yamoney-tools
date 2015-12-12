@@ -1,7 +1,7 @@
 {
 	"name": "yamoney-tools",
 	"version": "0.1.0",
-	"description": "Tools for Yandex.Money",
+	"description": "Tools for Yandex.Money payment system",
 	"keywords": ["yandex", "money", "payment"],
 	"main": "./lib/index",
 	"license": "MIT",
